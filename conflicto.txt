@@ -1,1 +1,1 @@
-Version original para practicar conflictos.
+Version modificada desde la rama master.
