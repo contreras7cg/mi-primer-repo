@@ -1,1 +1,2 @@
 Este es mi primer archivp de notas en Git.
+Esta es mi segunda linea de notas en git.
