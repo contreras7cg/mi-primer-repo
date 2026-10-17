@@ -1,1 +1,2 @@
 Version modificada desde la rama master.
+Version modificada desde la rama conflicto-practica.
